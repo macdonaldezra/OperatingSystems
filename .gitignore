@@ -1,0 +1,9 @@
+**/bin/
+**/build/
+*.[oa]
+*~
+*.class
+*.ps
+core
+*.core
+a.out

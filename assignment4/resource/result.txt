@@ -1,0 +1,61 @@
+TA is going to sleep, waiting for student to come ...... 
+										Student 2 is programming for 4 seconds
+										Student 3 is programming for 1 seconds
+										Student 1 is programming for 3 seconds
+						Student <3> takes a seat to get help, total 1  student(s)  waiting for help.
+TA Helping student <<3>> for 5 seconds.
+						Student <1> takes a seat to get help, total 1  student(s)  waiting for help.
+						Student <2> takes a seat to get help, total 2  student(s)  waiting for help.
+TA Helping student <<1>> for 5 seconds.
+							Student <<<3>>> is getting help.
+										Student 3 is programming for 4 seconds
+						Student <3> takes a seat to get help, total 2  student(s)  waiting for help.
+TA Helping student <<2>> for 2 seconds.
+							Student <<<1>>> is getting help.
+										Student 1 is programming for 3 seconds
+TA Helping student <<3>> for 4 seconds.
+							Student <<<2>>> is getting help.
+										Student 2 is programming for 1 seconds
+						Student <1> takes a seat to get help, total 1  student(s)  waiting for help.
+						Student <2> takes a seat to get help, total 2  student(s)  waiting for help.
+TA Helping student <<1>> for 3 seconds.
+							Student <<<3>>> is getting help.
+										Student 3 is programming for 2 seconds
+						Student <3> takes a seat to get help, total 2  student(s)  waiting for help.
+TA Helping student <<2>> for 4 seconds.
+							Student <<<1>>> is getting help.
+										Student 1 is programming for 2 seconds
+						Student <1> takes a seat to get help, total 2  student(s)  waiting for help.
+TA Helping student <<3>> for 3 seconds.
+							Student <<<2>>> is getting help.
+										Student 2 is programming for 1 seconds
+						Student <2> takes a seat to get help, total 2  student(s)  waiting for help.
+TA Helping student <<1>> for 5 seconds.
+							Student <<<3>>> is getting help.
+										Student 3 is programming for 5 seconds
+TA Helping student <<2>> for 3 seconds.
+						Student <3> takes a seat to get help, total 1  student(s)  waiting for help.
+							Student <<<3>>> is getting help.
+										Student 3 is programming for 3 seconds
+TA Helping student <<3>> for 1 seconds.
+							Student <<<2>>> is getting help.
+										Student 2 is programming for 4 seconds
+						Student <3> takes a seat to get help, total 1  student(s)  waiting for help.
+TA Helping student <<3>> for 5 seconds.
+							Student <<<1>>> is getting help.
+										Student 1 is programming for 4 seconds
+						Student <2> takes a seat to get help, total 1  student(s)  waiting for help.
+						Student <1> takes a seat to get help, total 2  student(s)  waiting for help.
+TA Helping student <<2>> for 2 seconds.
+							Student <<<3>>> is getting help.
+TA Helping student <<1>> for 5 seconds.
+							Student <<<2>>> is getting help.
+										Student 2 is programming for 2 seconds
+						Student <2> takes a seat to get help, total 1  student(s)  waiting for help.
+TA Helping student <<2>> for 4 seconds.
+							Student <<<1>>> is getting help.
+										Student 1 is programming for 2 seconds
+						Student <1> takes a seat to get help, total 1  student(s)  waiting for help.
+TA Helping student <<1>> for 2 seconds.
+							Student <<<2>>> is getting help.
+							Student <<<1>>> is getting help.
