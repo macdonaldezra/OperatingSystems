@@ -1,15 +1,18 @@
-A collection of assignments completed for an Introduction to Operating Systems course.
+Operating Systems:
+------------------
+A collection of scripts and packages developed with OS libraries in C.
 
-Please Note: Ensure that both bin/ and build/ directories have been created before running a given makefile. 
+Installation:
+-------------
+Each respective directory contains a project that can be compiled and executed from the command line. Ensure that
+both bin/ and build/ directories have been created before running a given makefile. Each program has been tested
+using either user input or test files.
 
-Each of the respective assignments is executed from the command line and are tested
-either via user input or with test files. The assignments are as follows:
-
-Assignment 1:
+cmd_util:
 -------------
  A simple command line utility in C, that includes fork, pipe and basic command execution.
 
-Assignment 2:
+sudoku_check:
 -------------
 Program validates Sudoku puzzles using multitherating. Program expects valid Sudoku solution file 
 to be passed as a parameter, where the file has the following format:
@@ -24,7 +27,7 @@ to be passed as a parameter, where the file has the following format:
 2,8,7,4,1,9,6,3,5 <br/>
 3,4,5,2,8,6,1,7,9 <br/>
 
-Assignment 3:
+sched_algs:
 -------------
 A series of scheduling algorithms implemented in C.
 
@@ -47,12 +50,12 @@ T6, 1, 10 <br/>
 T7, 3, 30 <br/>
 T8, 10, 25 <br/>
 
-Assignment 4:
+to_lock:
 -------------
 Program simulates a Teachers Assistant with a waiting room serving Students
 using Mutex's and Semaphores.
 
-Assignment 5:
+pager:
 -------------
 Program simulates integrating Translation Lookaside Buffer, Page Table, Physical
 Memory and Virtual Memory in C. Program is evaluated on two input files - a binary
